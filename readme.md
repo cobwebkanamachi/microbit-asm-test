@@ -1,7 +1,7 @@
 This is a clone of https://www.akavel.com/nrf51822-asm worked properly.
 <PRE>
 Environment:
- a. micro:bit is V1.38(1.3B?)
+ a. micro:bit is V1.38(1.3B?) -> nrf51822 soc.
  b. no j-link, dap(usb cmsis drive) only.
  c. host pc is windows11(64bit x64). 
 
