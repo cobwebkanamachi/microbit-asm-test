@@ -1,7 +1,13 @@
 This is a clone of https://www.akavel.com/nrf51822-asm worked properly.
 <PRE>
-So, files and short logs were here.
-Notices:
+Environment:
+ a. micro:bit is V1.38(1.3B?)
+ b. no j-link, dap(usb cmsis drive) only.
+ c. host pc is windows11(64bit x64). 
+
+ So, files and short logs were here.
+
+ Notices:
  1. hex has no debug symbols.
  2. elf has debug symbpls.
  3. bin is for dap drive drop worked.
